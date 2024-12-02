@@ -60,6 +60,6 @@ This project is a web-based application designed to validate telephone numbers, 
 
 Below is an example of the  telephone number validator in action:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./src/images/screenshot.png" alt="Screenshot 1" style="width: 50%; height: auto;">
-    <img src="./src/images/screenshot2.png" alt="Screenshot 2" style="width: 50%; height: auto;">
+    <img src="./src/images/screenshot.png" alt="Screenshot 1" style="width: 45%; height: auto;">
+    <img src="./src/images/screenshot2.png" alt="Screenshot 2" style="width: 45%; height: auto;">
 </div>
